@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Solvous Blog]]></title>
+        <description><![CDATA[Solvous Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 07:05:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Performance Profiling]]></title>
+            <description><![CDATA[<article><h1>Performance Profiling</h1><p>If a 1500 metre runner appeared to lack speed towards the end of a race, an effective coach would observe this and design a training program to address this situation. Similarly, if psychological factors require attention, the intervention must be tailored to specific needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87eb379db68c382a9be332061562729adf59f26.gif"></article>]]></description>
+            <link>http://www.brianmac.co.uk/perprofile.htm</link>
+            <guid isPermaLink="false">b556192c-38c4-4556-8f2d-e9f425090fec</guid>
+            <pubDate>Sun, 20 Mar 2016 07:05:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
