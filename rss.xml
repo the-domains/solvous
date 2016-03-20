@@ -4,8 +4,16 @@
         <description><![CDATA[Solvous Blog]]></description>
         <link>https://thegrid.ai/solvous/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 07:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 07:17:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/solvous/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Day 1: St Pancras to
+Avignon. No Gear and No Idea. </p>]]></description>
+            <link>https://thegrid.ai/solvous/day-1-st-pancras-to-avignon-no-gear-and-no-idea/index.html</link>
+            <guid isPermaLink="false">60a29c9a-24c4-4df3-ac73-f0cf225510ed</guid>
+            <pubDate>Sun, 20 Mar 2016 07:17:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>week</p>]]></description>
