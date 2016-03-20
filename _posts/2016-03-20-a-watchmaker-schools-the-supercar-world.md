@@ -17,8 +17,8 @@ keywords:
   - ross
   - bell
 description: 'Bell & Ross has a long history of creating fine timepieces; creating fine cars, not so much. But the French company recognises that a.) supercar shoppers, real or imagined, love chunky wristwatches, and b.) the best way to get the attention of supercar shoppers, real or imagined, is to build a supercar - or at least design one.'
-datePublished: '2016-03-20T07:36:52.037Z'
-dateModified: '2016-03-20T07:36:47.755Z'
+datePublished: '2016-03-20T07:37:16.286Z'
+dateModified: '2016-03-20T07:37:10.701Z'
 author:
   - name: Matthew Phenix
     url: null
