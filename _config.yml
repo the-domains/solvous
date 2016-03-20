@@ -1,7 +1,7 @@
 name: Solvous
 favicon: null
-layout_spectrum: 0.6496300213038921
-typography_spectrum: 0.9179096519947052
+layout_spectrum: 0.70306
+typography_spectrum: 0.60572
 title: Solvous Blog
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.05481592449359596
+    - '#ffffff'
+    - '#005870'
+    - '#b3cdd4'
+    - '#4b899a'
+    - '#8bb3be'
+  brandStrength: 0.9375
   lightness: 0.46910070814192295
   saturation: 0.6301278048194945
   rhythmicContrast: 0.3180090459063649
