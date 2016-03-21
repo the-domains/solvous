@@ -4,8 +4,15 @@
         <description><![CDATA[Solvous Blog]]></description>
         <link>https://thegrid.ai/solvous/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 13:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 13:10:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/solvous/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where Those Supermarket Pre-Prepared Meals Really Come From]]></title>
+            <description><![CDATA[<article><h1>Where Those Supermarket Pre-Prepared Meals Really Come From</h1><p>The meals at the prepared food counter in your local supermarket may look and taste good, but it's hard to know exactly what you're getting. Pre-made salads, pasta dishes, and even rotisserie chicken can make for quick and easy meals, but according to Katherine Hobson at Consumer Reports, there are a few things you should know.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32b6171c661df74baf891980be022386c9582c5e.jpg"></article>]]></description>
+            <link>http://lifehacker.com/supermarket-prepared-meals-are-probably-not-as-fresh-or-1765105555</link>
+            <guid isPermaLink="false">21574e5f-51dd-4ef1-96b7-39f8c23cf0a4</guid>
+            <pubDate>Mon, 21 Mar 2016 13:10:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Photo Tips That Finally Clicked and Made Me a Better Photographer]]></title>
             <description><![CDATA[<article><h1>The Photo Tips That Finally Clicked and Made Me a Better Photographer</h1><p>I have tried and failed to get into photography several times in my life. I like the idea of taking beautiful photos, but all the rules, settings, and tricks seemed impenetrable. Within the last year, some of those basics finally clicked in my head, and I "got" it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39699a4eeb5dc42994588fa9850127d9678b1f09.jpg"></article>]]></description>
@@ -69,13 +76,6 @@ Avignon. No Gear and No Idea. </p>]]></description>
             <link>http://www.nytimes.com/2016/03/15/business/media/moneyball-for-book-publishers-for-a-detailed-look-at-how-we-read.html?_r=0</link>
             <guid isPermaLink="false">e7947da4-3260-4e2c-99a7-8849086e5db9</guid>
             <pubDate>Sun, 20 Mar 2016 07:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Performance Profiling]]></title>
-            <description><![CDATA[<article><h1>Performance Profiling</h1><p>This is something from Brian Mac boxing training. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87eb379db68c382a9be332061562729adf59f26.gif"></article>]]></description>
-            <link>http://www.brianmac.co.uk/perprofile.htm</link>
-            <guid isPermaLink="false">b556192c-38c4-4556-8f2d-e9f425090fec</guid>
-            <pubDate>Sun, 20 Mar 2016 07:36:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
